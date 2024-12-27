@@ -25,7 +25,7 @@
 
 Создал 5 виртуалок:
 
-[изображение](https://github.com/stepynin-georgy/hw_k8s_12/blob/main/Screenshot_2.png)
+![изображение](https://github.com/stepynin-georgy/hw_k8s_12/blob/main/Screenshot_2.png)
 
 Сделал форвардинг:
 
